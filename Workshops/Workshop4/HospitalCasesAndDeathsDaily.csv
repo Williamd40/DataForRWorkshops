@@ -1,0 +1,629 @@
+areaCode,areaName,areaType,date,hospitalCases,newDailyNsoDeathsByDeathDate
+K02000001,United Kingdom,overview,08/10/2021,6779,52
+K02000001,United Kingdom,overview,07/10/2021,6803,86
+K02000001,United Kingdom,overview,06/10/2021,6859,79
+K02000001,United Kingdom,overview,05/10/2021,6874,91
+K02000001,United Kingdom,overview,04/10/2021,6799,87
+K02000001,United Kingdom,overview,03/10/2021,6610,91
+K02000001,United Kingdom,overview,02/10/2021,6454,106
+K02000001,United Kingdom,overview,01/10/2021,6603,117
+K02000001,United Kingdom,overview,30/09/2021,6773,121
+K02000001,United Kingdom,overview,29/09/2021,6919,131
+K02000001,United Kingdom,overview,28/09/2021,7034,106
+K02000001,United Kingdom,overview,27/09/2021,7053,119
+K02000001,United Kingdom,overview,26/09/2021,6821,105
+K02000001,United Kingdom,overview,25/09/2021,6961,127
+K02000001,United Kingdom,overview,24/09/2021,6917,135
+K02000001,United Kingdom,overview,23/09/2021,7169,143
+K02000001,United Kingdom,overview,22/09/2021,7419,153
+K02000001,United Kingdom,overview,21/09/2021,7627,133
+K02000001,United Kingdom,overview,20/09/2021,7799,152
+K02000001,United Kingdom,overview,19/09/2021,7747,131
+K02000001,United Kingdom,overview,18/09/2021,7696,133
+K02000001,United Kingdom,overview,17/09/2021,7906,179
+K02000001,United Kingdom,overview,16/09/2021,8113,156
+K02000001,United Kingdom,overview,15/09/2021,8397,161
+K02000001,United Kingdom,overview,14/09/2021,8393,158
+K02000001,United Kingdom,overview,13/09/2021,8472,114
+K02000001,United Kingdom,overview,12/09/2021,8249,139
+K02000001,United Kingdom,overview,11/09/2021,8139,142
+K02000001,United Kingdom,overview,10/09/2021,8311,147
+K02000001,United Kingdom,overview,09/09/2021,8140,175
+K02000001,United Kingdom,overview,08/09/2021,8131,140
+K02000001,United Kingdom,overview,07/09/2021,7976,157
+K02000001,United Kingdom,overview,06/09/2021,8034,151
+K02000001,United Kingdom,overview,05/09/2021,7748,154
+K02000001,United Kingdom,overview,04/09/2021,7552,138
+K02000001,United Kingdom,overview,03/09/2021,7667,147
+K02000001,United Kingdom,overview,02/09/2021,7618,134
+K02000001,United Kingdom,overview,01/09/2021,7678,115
+K02000001,United Kingdom,overview,31/08/2021,7675,118
+K02000001,United Kingdom,overview,30/08/2021,7336,108
+K02000001,United Kingdom,overview,29/08/2021,7107,134
+K02000001,United Kingdom,overview,28/08/2021,6976,131
+K02000001,United Kingdom,overview,27/08/2021,7081,134
+K02000001,United Kingdom,overview,26/08/2021,7029,120
+K02000001,United Kingdom,overview,25/08/2021,6983,103
+K02000001,United Kingdom,overview,24/08/2021,6959,115
+K02000001,United Kingdom,overview,23/08/2021,7017,118
+K02000001,United Kingdom,overview,22/08/2021,6747,125
+K02000001,United Kingdom,overview,21/08/2021,6529,112
+K02000001,United Kingdom,overview,20/08/2021,6518,124
+K02000001,United Kingdom,overview,19/08/2021,6507,112
+K02000001,United Kingdom,overview,18/08/2021,6464,109
+K02000001,United Kingdom,overview,17/08/2021,6406,97
+K02000001,United Kingdom,overview,16/08/2021,6382,84
+K02000001,United Kingdom,overview,15/08/2021,6045,89
+K02000001,United Kingdom,overview,14/08/2021,5882,102
+K02000001,United Kingdom,overview,13/08/2021,5986,96
+K02000001,United Kingdom,overview,12/08/2021,5958,101
+K02000001,United Kingdom,overview,11/08/2021,6003,85
+K02000001,United Kingdom,overview,10/08/2021,6019,83
+K02000001,United Kingdom,overview,09/08/2021,6017,83
+K02000001,United Kingdom,overview,08/08/2021,5856,82
+K02000001,United Kingdom,overview,07/08/2021,5702,105
+K02000001,United Kingdom,overview,06/08/2021,5751,95
+K02000001,United Kingdom,overview,05/08/2021,5754,97
+K02000001,United Kingdom,overview,04/08/2021,5791,91
+K02000001,United Kingdom,overview,03/08/2021,6005,78
+K02000001,United Kingdom,overview,02/08/2021,6214,91
+K02000001,United Kingdom,overview,01/08/2021,5981,96
+K02000001,United Kingdom,overview,31/07/2021,5957,89
+K02000001,United Kingdom,overview,30/07/2021,6018,100
+K02000001,United Kingdom,overview,29/07/2021,5985,85
+K02000001,United Kingdom,overview,28/07/2021,6106,81
+K02000001,United Kingdom,overview,27/07/2021,6095,74
+K02000001,United Kingdom,overview,26/07/2021,6003,76
+K02000001,United Kingdom,overview,25/07/2021,5646,70
+K02000001,United Kingdom,overview,24/07/2021,5377,66
+K02000001,United Kingdom,overview,23/07/2021,5310,79
+K02000001,United Kingdom,overview,22/07/2021,5100,85
+K02000001,United Kingdom,overview,21/07/2021,4928,60
+K02000001,United Kingdom,overview,20/07/2021,4740,66
+K02000001,United Kingdom,overview,19/07/2021,4649,86
+K02000001,United Kingdom,overview,18/07/2021,4345,71
+K02000001,United Kingdom,overview,17/07/2021,4229,60
+K02000001,United Kingdom,overview,16/07/2021,4149,54
+K02000001,United Kingdom,overview,15/07/2021,4036,52
+K02000001,United Kingdom,overview,14/07/2021,3855,45
+K02000001,United Kingdom,overview,13/07/2021,3672,49
+K02000001,United Kingdom,overview,12/07/2021,3457,40
+K02000001,United Kingdom,overview,11/07/2021,3181,35
+K02000001,United Kingdom,overview,10/07/2021,3035,45
+K02000001,United Kingdom,overview,09/07/2021,2938,48
+K02000001,United Kingdom,overview,08/07/2021,2767,41
+K02000001,United Kingdom,overview,07/07/2021,2680,36
+K02000001,United Kingdom,overview,06/07/2021,2485,34
+K02000001,United Kingdom,overview,05/07/2021,2363,28
+K02000001,United Kingdom,overview,04/07/2021,2177,29
+K02000001,United Kingdom,overview,03/07/2021,2057,31
+K02000001,United Kingdom,overview,02/07/2021,2013,30
+K02000001,United Kingdom,overview,01/07/2021,1936,28
+K02000001,United Kingdom,overview,30/06/2021,1826,26
+K02000001,United Kingdom,overview,29/06/2021,1747,24
+K02000001,United Kingdom,overview,28/06/2021,1744,18
+K02000001,United Kingdom,overview,27/06/2021,1606,24
+K02000001,United Kingdom,overview,26/06/2021,1545,17
+K02000001,United Kingdom,overview,25/06/2021,1538,21
+K02000001,United Kingdom,overview,24/06/2021,1517,28
+K02000001,United Kingdom,overview,23/06/2021,1496,8
+K02000001,United Kingdom,overview,22/06/2021,1542,17
+K02000001,United Kingdom,overview,21/06/2021,1519,12
+K02000001,United Kingdom,overview,20/06/2021,1385,21
+K02000001,United Kingdom,overview,19/06/2021,1350,20
+K02000001,United Kingdom,overview,18/06/2021,1365,17
+K02000001,United Kingdom,overview,17/06/2021,1323,9
+K02000001,United Kingdom,overview,16/06/2021,1258,13
+K02000001,United Kingdom,overview,15/06/2021,1233,20
+K02000001,United Kingdom,overview,14/06/2021,1182,12
+K02000001,United Kingdom,overview,13/06/2021,1141,12
+K02000001,United Kingdom,overview,12/06/2021,1106,11
+K02000001,United Kingdom,overview,11/06/2021,1077,13
+K02000001,United Kingdom,overview,10/06/2021,1095,16
+K02000001,United Kingdom,overview,09/06/2021,1064,17
+K02000001,United Kingdom,overview,08/06/2021,1057,15
+K02000001,United Kingdom,overview,07/06/2021,1035,6
+K02000001,United Kingdom,overview,06/06/2021,964,13
+K02000001,United Kingdom,overview,05/06/2021,938,6
+K02000001,United Kingdom,overview,04/06/2021,965,13
+K02000001,United Kingdom,overview,03/06/2021,938,16
+K02000001,United Kingdom,overview,02/06/2021,961,12
+K02000001,United Kingdom,overview,01/06/2021,930,10
+K02000001,United Kingdom,overview,31/05/2021,929,11
+K02000001,United Kingdom,overview,30/05/2021,907,8
+K02000001,United Kingdom,overview,29/05/2021,887,12
+K02000001,United Kingdom,overview,28/05/2021,886,13
+K02000001,United Kingdom,overview,27/05/2021,872,8
+K02000001,United Kingdom,overview,26/05/2021,895,14
+K02000001,United Kingdom,overview,25/05/2021,921,10
+K02000001,United Kingdom,overview,24/05/2021,960,16
+K02000001,United Kingdom,overview,23/05/2021,924,16
+K02000001,United Kingdom,overview,22/05/2021,887,4
+K02000001,United Kingdom,overview,21/05/2021,922,18
+K02000001,United Kingdom,overview,20/05/2021,912,7
+K02000001,United Kingdom,overview,19/05/2021,918,4
+K02000001,United Kingdom,overview,18/05/2021,898,11
+K02000001,United Kingdom,overview,17/05/2021,943,13
+K02000001,United Kingdom,overview,16/05/2021,941,14
+K02000001,United Kingdom,overview,15/05/2021,966,15
+K02000001,United Kingdom,overview,14/05/2021,976,14
+K02000001,United Kingdom,overview,13/05/2021,1001,15
+K02000001,United Kingdom,overview,12/05/2021,1068,15
+K02000001,United Kingdom,overview,11/05/2021,1106,21
+K02000001,United Kingdom,overview,10/05/2021,1129,8
+K02000001,United Kingdom,overview,09/05/2021,1118,11
+K02000001,United Kingdom,overview,08/05/2021,1137,20
+K02000001,United Kingdom,overview,07/05/2021,1157,17
+K02000001,United Kingdom,overview,06/05/2021,1159,17
+K02000001,United Kingdom,overview,05/05/2021,1238,22
+K02000001,United Kingdom,overview,04/05/2021,1295,15
+K02000001,United Kingdom,overview,03/05/2021,1303,17
+K02000001,United Kingdom,overview,02/05/2021,1285,18
+K02000001,United Kingdom,overview,01/05/2021,1287,15
+K02000001,United Kingdom,overview,30/04/2021,1366,16
+K02000001,United Kingdom,overview,29/04/2021,1464,17
+K02000001,United Kingdom,overview,28/04/2021,1515,21
+K02000001,United Kingdom,overview,27/04/2021,1572,26
+K02000001,United Kingdom,overview,26/04/2021,1649,22
+K02000001,United Kingdom,overview,25/04/2021,1626,26
+K02000001,United Kingdom,overview,24/04/2021,1673,24
+K02000001,United Kingdom,overview,23/04/2021,1749,29
+K02000001,United Kingdom,overview,22/04/2021,1791,33
+K02000001,United Kingdom,overview,21/04/2021,1893,35
+K02000001,United Kingdom,overview,20/04/2021,1926,35
+K02000001,United Kingdom,overview,19/04/2021,2007,23
+K02000001,United Kingdom,overview,18/04/2021,1983,30
+K02000001,United Kingdom,overview,17/04/2021,2035,40
+K02000001,United Kingdom,overview,16/04/2021,2140,30
+K02000001,United Kingdom,overview,15/04/2021,2195,42
+K02000001,United Kingdom,overview,14/04/2021,2295,34
+K02000001,United Kingdom,overview,13/04/2021,2408,47
+K02000001,United Kingdom,overview,12/04/2021,2492,37
+K02000001,United Kingdom,overview,11/04/2021,2549,39
+K02000001,United Kingdom,overview,10/04/2021,2650,43
+K02000001,United Kingdom,overview,09/04/2021,2793,38
+K02000001,United Kingdom,overview,08/04/2021,2872,60
+K02000001,United Kingdom,overview,07/04/2021,3019,45
+K02000001,United Kingdom,overview,06/04/2021,3143,45
+K02000001,United Kingdom,overview,05/04/2021,3255,44
+K02000001,United Kingdom,overview,04/04/2021,3229,51
+K02000001,United Kingdom,overview,03/04/2021,3244,40
+K02000001,United Kingdom,overview,02/04/2021,3376,50
+K02000001,United Kingdom,overview,01/04/2021,3557,63
+K02000001,United Kingdom,overview,31/03/2021,3742,74
+K02000001,United Kingdom,overview,30/03/2021,3976,54
+K02000001,United Kingdom,overview,29/03/2021,4197,68
+K02000001,United Kingdom,overview,28/03/2021,4185,49
+K02000001,United Kingdom,overview,27/03/2021,4436,63
+K02000001,United Kingdom,overview,26/03/2021,4485,74
+K02000001,United Kingdom,overview,25/03/2021,4583,77
+K02000001,United Kingdom,overview,24/03/2021,4880,70
+K02000001,United Kingdom,overview,23/03/2021,5150,93
+K02000001,United Kingdom,overview,22/03/2021,5431,105
+K02000001,United Kingdom,overview,21/03/2021,5448,123
+K02000001,United Kingdom,overview,20/03/2021,5567,99
+K02000001,United Kingdom,overview,19/03/2021,5880,102
+K02000001,United Kingdom,overview,18/03/2021,6150,99
+K02000001,United Kingdom,overview,17/03/2021,6585,126
+K02000001,United Kingdom,overview,16/03/2021,6847,113
+K02000001,United Kingdom,overview,15/03/2021,7207,135
+K02000001,United Kingdom,overview,14/03/2021,7315,133
+K02000001,United Kingdom,overview,13/03/2021,7384,134
+K02000001,United Kingdom,overview,12/03/2021,7728,134
+K02000001,United Kingdom,overview,11/03/2021,8066,171
+K02000001,United Kingdom,overview,10/03/2021,8436,160
+K02000001,United Kingdom,overview,09/03/2021,9009,185
+K02000001,United Kingdom,overview,08/03/2021,9474,196
+K02000001,United Kingdom,overview,07/03/2021,9459,194
+K02000001,United Kingdom,overview,06/03/2021,9711,210
+K02000001,United Kingdom,overview,05/03/2021,10312,221
+K02000001,United Kingdom,overview,04/03/2021,10933,233
+K02000001,United Kingdom,overview,03/03/2021,11523,214
+K02000001,United Kingdom,overview,02/03/2021,12139,243
+K02000001,United Kingdom,overview,01/03/2021,12894,292
+K02000001,United Kingdom,overview,28/02/2021,12788,278
+K02000001,United Kingdom,overview,27/02/2021,13269,306
+K02000001,United Kingdom,overview,26/02/2021,14077,301
+K02000001,United Kingdom,overview,25/02/2021,14849,348
+K02000001,United Kingdom,overview,24/02/2021,15534,363
+K02000001,United Kingdom,overview,23/02/2021,16115,377
+K02000001,United Kingdom,overview,22/02/2021,16855,375
+K02000001,United Kingdom,overview,21/02/2021,16857,411
+K02000001,United Kingdom,overview,20/02/2021,17042,449
+K02000001,United Kingdom,overview,19/02/2021,17860,465
+K02000001,United Kingdom,overview,18/02/2021,18522,520
+K02000001,United Kingdom,overview,17/02/2021,19449,503
+K02000001,United Kingdom,overview,16/02/2021,20215,565
+K02000001,United Kingdom,overview,15/02/2021,20994,611
+K02000001,United Kingdom,overview,14/02/2021,21054,599
+K02000001,United Kingdom,overview,13/02/2021,20970,582
+K02000001,United Kingdom,overview,12/02/2021,22324,633
+K02000001,United Kingdom,overview,11/02/2021,23411,668
+K02000001,United Kingdom,overview,10/02/2021,24417,709
+K02000001,United Kingdom,overview,09/02/2021,25689,722
+K02000001,United Kingdom,overview,08/02/2021,26744,778
+K02000001,United Kingdom,overview,07/02/2021,26800,751
+K02000001,United Kingdom,overview,06/02/2021,26914,783
+K02000001,United Kingdom,overview,05/02/2021,28383,871
+K02000001,United Kingdom,overview,04/02/2021,29413,825
+K02000001,United Kingdom,overview,03/02/2021,30604,967
+K02000001,United Kingdom,overview,02/02/2021,31766,959
+K02000001,United Kingdom,overview,01/02/2021,32960,1004
+K02000001,United Kingdom,overview,31/01/2021,32586,992
+K02000001,United Kingdom,overview,30/01/2021,33015,1023
+K02000001,United Kingdom,overview,29/01/2021,33847,1153
+K02000001,United Kingdom,overview,28/01/2021,34909,1222
+K02000001,United Kingdom,overview,27/01/2021,35513,1227
+K02000001,United Kingdom,overview,26/01/2021,37101,1169
+K02000001,United Kingdom,overview,25/01/2021,37756,1255
+K02000001,United Kingdom,overview,24/01/2021,37730,1233
+K02000001,United Kingdom,overview,23/01/2021,37398,1282
+K02000001,United Kingdom,overview,22/01/2021,38257,1332
+K02000001,United Kingdom,overview,21/01/2021,38059,1343
+K02000001,United Kingdom,overview,20/01/2021,38739,1378
+K02000001,United Kingdom,overview,19/01/2021,38846,1484
+K02000001,United Kingdom,overview,18/01/2021,39254,1399
+K02000001,United Kingdom,overview,17/01/2021,38169,1355
+K02000001,United Kingdom,overview,16/01/2021,37715,1414
+K02000001,United Kingdom,overview,15/01/2021,38132,1318
+K02000001,United Kingdom,overview,14/01/2021,37691,1337
+K02000001,United Kingdom,overview,13/01/2021,37487,1303
+K02000001,United Kingdom,overview,12/01/2021,36981,1315
+K02000001,United Kingdom,overview,11/01/2021,36751,1238
+K02000001,United Kingdom,overview,10/01/2021,35391,1168
+K02000001,United Kingdom,overview,09/01/2021,34032,1091
+K02000001,United Kingdom,overview,08/01/2021,33778,1052
+K02000001,United Kingdom,overview,07/01/2021,32583,1053
+K02000001,United Kingdom,overview,06/01/2021,31946,1014
+K02000001,United Kingdom,overview,05/01/2021,30686,962
+K02000001,United Kingdom,overview,04/01/2021,30775,895
+K02000001,United Kingdom,overview,03/01/2021,29033,807
+K02000001,United Kingdom,overview,02/01/2021,27561,830
+K02000001,United Kingdom,overview,01/01/2021,26389,809
+K02000001,United Kingdom,overview,31/12/2020,26578,824
+K02000001,United Kingdom,overview,30/12/2020,26551,760
+K02000001,United Kingdom,overview,29/12/2020,25549,713
+K02000001,United Kingdom,overview,28/12/2020,24049,723
+K02000001,United Kingdom,overview,27/12/2020,22764,718
+K02000001,United Kingdom,overview,26/12/2020,21730,692
+K02000001,United Kingdom,overview,25/12/2020,20918,655
+K02000001,United Kingdom,overview,24/12/2020,21577,616
+K02000001,United Kingdom,overview,23/12/2020,21222,629
+K02000001,United Kingdom,overview,22/12/2020,21488,629
+K02000001,United Kingdom,overview,21/12/2020,21133,602
+K02000001,United Kingdom,overview,20/12/2020,20004,551
+K02000001,United Kingdom,overview,19/12/2020,19463,548
+K02000001,United Kingdom,overview,18/12/2020,19117,586
+K02000001,United Kingdom,overview,17/12/2020,18970,567
+K02000001,United Kingdom,overview,16/12/2020,18671,484
+K02000001,United Kingdom,overview,15/12/2020,18216,507
+K02000001,United Kingdom,overview,14/12/2020,18246,506
+K02000001,United Kingdom,overview,13/12/2020,17538,480
+K02000001,United Kingdom,overview,12/12/2020,16909,488
+K02000001,United Kingdom,overview,11/12/2020,16885,491
+K02000001,United Kingdom,overview,10/12/2020,16723,496
+K02000001,United Kingdom,overview,09/12/2020,16331,448
+K02000001,United Kingdom,overview,08/12/2020,16477,472
+K02000001,United Kingdom,overview,07/12/2020,16415,466
+K02000001,United Kingdom,overview,06/12/2020,15960,436
+K02000001,United Kingdom,overview,05/12/2020,15688,407
+K02000001,United Kingdom,overview,04/12/2020,15727,499
+K02000001,United Kingdom,overview,03/12/2020,15658,504
+K02000001,United Kingdom,overview,02/12/2020,15977,414
+K02000001,United Kingdom,overview,01/12/2020,16312,425
+K02000001,United Kingdom,overview,30/11/2020,16565,465
+K02000001,United Kingdom,overview,29/11/2020,16313,501
+K02000001,United Kingdom,overview,28/11/2020,15985,486
+K02000001,United Kingdom,overview,27/11/2020,16571,460
+K02000001,United Kingdom,overview,26/11/2020,16762,461
+K02000001,United Kingdom,overview,25/11/2020,17132,499
+K02000001,United Kingdom,overview,24/11/2020,17424,496
+K02000001,United Kingdom,overview,23/11/2020,17680,508
+K02000001,United Kingdom,overview,22/11/2020,17264,512
+K02000001,United Kingdom,overview,21/11/2020,17063,498
+K02000001,United Kingdom,overview,20/11/2020,17184,485
+K02000001,United Kingdom,overview,19/11/2020,17459,485
+K02000001,United Kingdom,overview,18/11/2020,17486,514
+K02000001,United Kingdom,overview,17/11/2020,17439,466
+K02000001,United Kingdom,overview,16/11/2020,17313,431
+K02000001,United Kingdom,overview,15/11/2020,16864,457
+K02000001,United Kingdom,overview,14/11/2020,16299,459
+K02000001,United Kingdom,overview,13/11/2020,16236,450
+K02000001,United Kingdom,overview,12/11/2020,15879,430
+K02000001,United Kingdom,overview,11/11/2020,15666,409
+K02000001,United Kingdom,overview,10/11/2020,14964,410
+K02000001,United Kingdom,overview,09/11/2020,15141,493
+K02000001,United Kingdom,overview,08/11/2020,14546,433
+K02000001,United Kingdom,overview,07/11/2020,14314,417
+K02000001,United Kingdom,overview,06/11/2020,13958,417
+K02000001,United Kingdom,overview,05/11/2020,13796,388
+K02000001,United Kingdom,overview,04/11/2020,13817,340
+K02000001,United Kingdom,overview,03/11/2020,13749,377
+K02000001,United Kingdom,overview,02/11/2020,13105,338
+K02000001,United Kingdom,overview,01/11/2020,12230,359
+K02000001,United Kingdom,overview,31/10/2020,12310,340
+K02000001,United Kingdom,overview,30/10/2020,11788,352
+K02000001,United Kingdom,overview,29/10/2020,11583,320
+K02000001,United Kingdom,overview,28/10/2020,11434,281
+K02000001,United Kingdom,overview,27/10/2020,10938,285
+K02000001,United Kingdom,overview,26/10/2020,10108,282
+K02000001,United Kingdom,overview,25/10/2020,9786,255
+K02000001,United Kingdom,overview,24/10/2020,9262,219
+K02000001,United Kingdom,overview,23/10/2020,8886,225
+K02000001,United Kingdom,overview,22/10/2020,8311,242
+K02000001,United Kingdom,overview,21/10/2020,8132,232
+K02000001,United Kingdom,overview,20/10/2020,7852,210
+K02000001,United Kingdom,overview,19/10/2020,7334,193
+K02000001,United Kingdom,overview,18/10/2020,6829,167
+K02000001,United Kingdom,overview,17/10/2020,6545,186
+K02000001,United Kingdom,overview,16/10/2020,6296,162
+K02000001,United Kingdom,overview,15/10/2020,5933,152
+K02000001,United Kingdom,overview,14/10/2020,5598,123
+K02000001,United Kingdom,overview,13/10/2020,5293,119
+K02000001,United Kingdom,overview,12/10/2020,4959,120
+K02000001,United Kingdom,overview,11/10/2020,4670,128
+K02000001,United Kingdom,overview,10/10/2020,4358,107
+K02000001,United Kingdom,overview,09/10/2020,4170,96
+K02000001,United Kingdom,overview,08/10/2020,4085,97
+K02000001,United Kingdom,overview,07/10/2020,3893,110
+K02000001,United Kingdom,overview,06/10/2020,3642,84
+K02000001,United Kingdom,overview,05/10/2020,3370,68
+K02000001,United Kingdom,overview,04/10/2020,3056,63
+K02000001,United Kingdom,overview,03/10/2020,2867,70
+K02000001,United Kingdom,overview,02/10/2020,2723,74
+K02000001,United Kingdom,overview,01/10/2020,2592,71
+K02000001,United Kingdom,overview,30/09/2020,2530,61
+K02000001,United Kingdom,overview,29/09/2020,2420,48
+K02000001,United Kingdom,overview,28/09/2020,2399,55
+K02000001,United Kingdom,overview,27/09/2020,2188,56
+K02000001,United Kingdom,overview,26/09/2020,2033,47
+K02000001,United Kingdom,overview,25/09/2020,2020,40
+K02000001,United Kingdom,overview,24/09/2020,1846,34
+K02000001,United Kingdom,overview,23/09/2020,1730,58
+K02000001,United Kingdom,overview,22/09/2020,1636,39
+K02000001,United Kingdom,overview,21/09/2020,1558,30
+K02000001,United Kingdom,overview,20/09/2020,1398,40
+K02000001,United Kingdom,overview,19/09/2020,1300,25
+K02000001,United Kingdom,overview,18/09/2020,1221,30
+K02000001,United Kingdom,overview,17/09/2020,1162,38
+K02000001,United Kingdom,overview,16/09/2020,1106,31
+K02000001,United Kingdom,overview,15/09/2020,1066,26
+K02000001,United Kingdom,overview,14/09/2020,982,21
+K02000001,United Kingdom,overview,13/09/2020,843,20
+K02000001,United Kingdom,overview,12/09/2020,812,23
+K02000001,United Kingdom,overview,11/09/2020,770,20
+K02000001,United Kingdom,overview,10/09/2020,944,16
+K02000001,United Kingdom,overview,09/09/2020,924,14
+K02000001,United Kingdom,overview,08/09/2020,894,16
+K02000001,United Kingdom,overview,07/09/2020,902,24
+K02000001,United Kingdom,overview,06/09/2020,817,13
+K02000001,United Kingdom,overview,05/09/2020,812,14
+K02000001,United Kingdom,overview,04/09/2020,818,15
+K02000001,United Kingdom,overview,03/09/2020,817,9
+K02000001,United Kingdom,overview,02/09/2020,803,15
+K02000001,United Kingdom,overview,01/09/2020,861,11
+K02000001,United Kingdom,overview,31/08/2020,854,18
+K02000001,United Kingdom,overview,30/08/2020,831,11
+K02000001,United Kingdom,overview,29/08/2020,833,8
+K02000001,United Kingdom,overview,28/08/2020,818,12
+K02000001,United Kingdom,overview,27/08/2020,840,12
+K02000001,United Kingdom,overview,26/08/2020,829,16
+K02000001,United Kingdom,overview,25/08/2020,844,22
+K02000001,United Kingdom,overview,24/08/2020,876,10
+K02000001,United Kingdom,overview,23/08/2020,870,17
+K02000001,United Kingdom,overview,22/08/2020,943,12
+K02000001,United Kingdom,overview,21/08/2020,888,10
+K02000001,United Kingdom,overview,20/08/2020,909,16
+K02000001,United Kingdom,overview,19/08/2020,924,13
+K02000001,United Kingdom,overview,18/08/2020,953,15
+K02000001,United Kingdom,overview,17/08/2020,982,21
+K02000001,United Kingdom,overview,16/08/2020,979,15
+K02000001,United Kingdom,overview,15/08/2020,974,23
+K02000001,United Kingdom,overview,14/08/2020,995,18
+K02000001,United Kingdom,overview,13/08/2020,1008,23
+K02000001,United Kingdom,overview,12/08/2020,1004,24
+K02000001,United Kingdom,overview,11/08/2020,1039,20
+K02000001,United Kingdom,overview,10/08/2020,1087,25
+K02000001,United Kingdom,overview,09/08/2020,983,19
+K02000001,United Kingdom,overview,08/08/2020,1027,22
+K02000001,United Kingdom,overview,07/08/2020,1094,24
+K02000001,United Kingdom,overview,06/08/2020,1155,21
+K02000001,United Kingdom,overview,05/08/2020,1200,13
+K02000001,United Kingdom,overview,04/08/2020,1216,27
+K02000001,United Kingdom,overview,03/08/2020,1251,23
+K02000001,United Kingdom,overview,02/08/2020,1254,17
+K02000001,United Kingdom,overview,01/08/2020,1290,20
+K02000001,United Kingdom,overview,31/07/2020,1266,31
+K02000001,United Kingdom,overview,30/07/2020,1314,17
+K02000001,United Kingdom,overview,29/07/2020,1350,28
+K02000001,United Kingdom,overview,28/07/2020,1369,26
+K02000001,United Kingdom,overview,27/07/2020,1370,18
+K02000001,United Kingdom,overview,26/07/2020,1383,32
+K02000001,United Kingdom,overview,25/07/2020,1401,23
+K02000001,United Kingdom,overview,24/07/2020,1453,19
+K02000001,United Kingdom,overview,23/07/2020,1538,36
+K02000001,United Kingdom,overview,22/07/2020,1747,34
+K02000001,United Kingdom,overview,21/07/2020,1634,31
+K02000001,United Kingdom,overview,20/07/2020,1734,31
+K02000001,United Kingdom,overview,19/07/2020,1742,24
+K02000001,United Kingdom,overview,18/07/2020,1776,31
+K02000001,United Kingdom,overview,17/07/2020,1804,34
+K02000001,United Kingdom,overview,16/07/2020,1829,21
+K02000001,United Kingdom,overview,15/07/2020,1974,41
+K02000001,United Kingdom,overview,14/07/2020,1993,42
+K02000001,United Kingdom,overview,13/07/2020,2113,45
+K02000001,United Kingdom,overview,12/07/2020,2101,32
+K02000001,United Kingdom,overview,11/07/2020,2119,38
+K02000001,United Kingdom,overview,10/07/2020,2244,44
+K02000001,United Kingdom,overview,09/07/2020,2345,61
+K02000001,United Kingdom,overview,08/07/2020,2454,47
+K02000001,United Kingdom,overview,07/07/2020,2598,43
+K02000001,United Kingdom,overview,06/07/2020,2699,54
+K02000001,United Kingdom,overview,05/07/2020,2741,52
+K02000001,United Kingdom,overview,04/07/2020,2802,52
+K02000001,United Kingdom,overview,03/07/2020,2942,48
+K02000001,United Kingdom,overview,02/07/2020,3079,61
+K02000001,United Kingdom,overview,01/07/2020,3198,54
+K02000001,United Kingdom,overview,30/06/2020,3383,81
+K02000001,United Kingdom,overview,29/06/2020,3748,69
+K02000001,United Kingdom,overview,28/06/2020,3557,71
+K02000001,United Kingdom,overview,27/06/2020,3544,73
+K02000001,United Kingdom,overview,26/06/2020,3620,79
+K02000001,United Kingdom,overview,25/06/2020,3850,108
+K02000001,United Kingdom,overview,24/06/2020,4030,101
+K02000001,United Kingdom,overview,23/06/2020,4134,97
+K02000001,United Kingdom,overview,22/06/2020,4281,83
+K02000001,United Kingdom,overview,21/06/2020,4222,80
+K02000001,United Kingdom,overview,20/06/2020,4252,87
+K02000001,United Kingdom,overview,19/06/2020,4414,88
+K02000001,United Kingdom,overview,18/06/2020,4560,90
+K02000001,United Kingdom,overview,17/06/2020,4719,105
+K02000001,United Kingdom,overview,16/06/2020,4863,120
+K02000001,United Kingdom,overview,15/06/2020,4870,107
+K02000001,United Kingdom,overview,14/06/2020,4908,136
+K02000001,United Kingdom,overview,13/06/2020,4941,101
+K02000001,United Kingdom,overview,12/06/2020,5090,135
+K02000001,United Kingdom,overview,11/06/2020,5179,121
+K02000001,United Kingdom,overview,10/06/2020,5475,166
+K02000001,United Kingdom,overview,09/06/2020,5736,137
+K02000001,United Kingdom,overview,08/06/2020,5931,161
+K02000001,United Kingdom,overview,07/06/2020,5944,163
+K02000001,United Kingdom,overview,06/06/2020,6149,151
+K02000001,United Kingdom,overview,05/06/2020,6379,184
+K02000001,United Kingdom,overview,04/06/2020,6580,183
+K02000001,United Kingdom,overview,03/06/2020,6815,203
+K02000001,United Kingdom,overview,02/06/2020,7087,233
+K02000001,United Kingdom,overview,01/06/2020,7248,199
+K02000001,United Kingdom,overview,31/05/2020,7238,195
+K02000001,United Kingdom,overview,30/05/2020,7268,219
+K02000001,United Kingdom,overview,29/05/2020,7586,254
+K02000001,United Kingdom,overview,28/05/2020,7907,288
+K02000001,United Kingdom,overview,27/05/2020,8220,282
+K02000001,United Kingdom,overview,26/05/2020,8732,300
+K02000001,United Kingdom,overview,25/05/2020,8836,279
+K02000001,United Kingdom,overview,24/05/2020,8814,281
+K02000001,United Kingdom,overview,23/05/2020,8814,284
+K02000001,United Kingdom,overview,22/05/2020,9184,300
+K02000001,United Kingdom,overview,21/05/2020,9293,342
+K02000001,United Kingdom,overview,20/05/2020,9563,353
+K02000001,United Kingdom,overview,19/05/2020,10013,372
+K02000001,United Kingdom,overview,18/05/2020,10231,407
+K02000001,United Kingdom,overview,17/05/2020,10199,377
+K02000001,United Kingdom,overview,16/05/2020,10238,419
+K02000001,United Kingdom,overview,15/05/2020,10691,421
+K02000001,United Kingdom,overview,14/05/2020,10921,465
+K02000001,United Kingdom,overview,13/05/2020,11342,454
+K02000001,United Kingdom,overview,12/05/2020,11591,441
+K02000001,United Kingdom,overview,11/05/2020,11967,428
+K02000001,United Kingdom,overview,10/05/2020,11727,494
+K02000001,United Kingdom,overview,09/05/2020,12015,539
+K02000001,United Kingdom,overview,08/05/2020,12053,569
+K02000001,United Kingdom,overview,07/05/2020,12626,631
+K02000001,United Kingdom,overview,06/05/2020,13148,627
+K02000001,United Kingdom,overview,05/05/2020,13723,642
+K02000001,United Kingdom,overview,04/05/2020,14097,676
+K02000001,United Kingdom,overview,03/05/2020,14188,662
+K02000001,United Kingdom,overview,02/05/2020,14380,705
+K02000001,United Kingdom,overview,01/05/2020,14723,786
+K02000001,United Kingdom,overview,30/04/2020,15164,780
+K02000001,United Kingdom,overview,29/04/2020,15521,817
+K02000001,United Kingdom,overview,28/04/2020,15877,801
+K02000001,United Kingdom,overview,27/04/2020,16662,866
+K02000001,United Kingdom,overview,26/04/2020,16555,894
+K02000001,United Kingdom,overview,25/04/2020,16604,919
+K02000001,United Kingdom,overview,24/04/2020,17063,1005
+K02000001,United Kingdom,overview,23/04/2020,17867,1038
+K02000001,United Kingdom,overview,22/04/2020,18533,1102
+K02000001,United Kingdom,overview,21/04/2020,19139,1085
+K02000001,United Kingdom,overview,20/04/2020,19331,1160
+K02000001,United Kingdom,overview,19/04/2020,19574,1122
+K02000001,United Kingdom,overview,18/04/2020,19456,1189
+K02000001,United Kingdom,overview,17/04/2020,19330,1272
+K02000001,United Kingdom,overview,16/04/2020,20389,1322
+K02000001,United Kingdom,overview,15/04/2020,20582,1276
+K02000001,United Kingdom,overview,14/04/2020,21281,1254
+K02000001,United Kingdom,overview,13/04/2020,21308,1232
+K02000001,United Kingdom,overview,12/04/2020,21687,1378
+K02000001,United Kingdom,overview,11/04/2020,21254,1365
+K02000001,United Kingdom,overview,10/04/2020,21280,1319
+K02000001,United Kingdom,overview,09/04/2020,21005,1375
+K02000001,United Kingdom,overview,08/04/2020,20740,1461
+K02000001,United Kingdom,overview,07/04/2020,20234,1293
+K02000001,United Kingdom,overview,06/04/2020,19493,1170
+K02000001,United Kingdom,overview,05/04/2020,18855,1220
+K02000001,United Kingdom,overview,04/04/2020,17502,1147
+K02000001,United Kingdom,overview,03/04/2020,15546,1061
+K02000001,United Kingdom,overview,02/04/2020,13875,1007
+K02000001,United Kingdom,overview,01/04/2020,13637,924
+K02000001,United Kingdom,overview,31/03/2020,12597,831
+K02000001,United Kingdom,overview,30/03/2020,11093,711
+K02000001,United Kingdom,overview,29/03/2020,9525,586
+K02000001,United Kingdom,overview,28/03/2020,8278,516
+K02000001,United Kingdom,overview,27/03/2020,7267,463
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
